@@ -1,0 +1,19 @@
+{
+  "name": "groceriesapplication",
+  "version": "1.0.0",
+  "description": "Application to filter through groceries",
+  "main": "index.js",
+  "scripts": {
+    "dev:server" : "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielrhodesy/groceriesApp.git"
+  },
+  "author": "Daniel Rhodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielrhodesy/groceriesApp/issues"
+  },
+  "homepage": "https://github.com/Danielrhodesy/groceriesApp#readme"
+}
